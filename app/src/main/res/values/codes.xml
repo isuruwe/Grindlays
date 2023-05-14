@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="icon_classroom">\48</string>
+    <string name="icon_clock">\49</string>
+    <string name="icon_cocktail">\4a</string>
+    <string name="icon_comment">\4b</string>
+    <string name="icon_conversion_rates">\4c</string>
+    <string name="icon_currency_xchg">\4d</string>
+    <string name="icon_customer_base">\4e</string>
+    <string name="icon_doctor">\4f</string>
+    <string name="icon_search">\e003</string>
+    <string name="icon_shirt">U</string>
+    <string name="icon_skype">\e005</string>
+    <string name="icon_spa">\e006</string>
+    <string name="icon_special_features">\e007</string>
+    <string name="icon_spoon">\e008</string>
+    <string name="icon_steam_bath">\e009</string>
+    <string name="icon_step_1">\e00a</string>
+    <string name="icon_step_2">\e00b</string>
+    <string name="icon_step_3">\e00c</string>
+    <string name="icon_step_4">\e00d</string>
+    <string name="icon_sun_bed">J</string>
+    <string name="icon_swimming">\e00f</string>
+    <string name="icon_taxi">\e010</string>
+    <string name="icon_tea">\e011</string>
+    <string name="icon_term_condition">\e012</string>
+    <string name="icon_theater">j</string>
+    <string name="icon_thumb_image">\e014</string>
+    <string name="icon_train">\e015</string>
+    <string name="icon_elevator">\50</string>
+    <string name="icon_facebook">\51</string>
+    <string name="icon_filter">\52</string>
+    <string name="icon_flower">\53</string>
+    <string name="icon_negotiations">\3b</string>
+    <string name="icon_operations">\3c</string>
+    <string name="icon_parking">B</string>
+    <string name="icon_payment">\3e</string>
+    <string name="icon_pencile">\3f</string>
+    <string name="icon_phone">\40</string>
+    <string name="icon_plane">\5b</string>
+    <string name="icon_play">\5d</string>
+    <string name="icon_play_1">\5e</string>
+    <string name="icon_pricing_plan">N</string>
+    <string name="icon_promise">\60</string>
+    <string name="icon_reception">\7b</string>
+    <string name="icon_reset">\7c</string>
+    <string name="icon_right_sign">\7d</string>
+    <string name="icon_road_guide">\7e</string>
+    <string name="icon_room_service">\5c</string>
+    <string name="icon_rooms_available">\e000</string>
+    <string name="icon_round_table">\e001</string>
+    <string name="icon_sales">\e002</string>
+    <string name="icon_dj">:</string>
+    <string name="icon_address">\62</string>
+    <string name="icon_airport_shuttle">\63</string>
+    <string name="icon_apple">\64</string>
+    <string name="icon_arrow_down">\65</string>
+    <string name="icon_arrow_left">\66</string>
+    <string name="icon_arrow_right">\67</string>
+    <string name="icon_arrow_up">\68</string>
+    <string name="icon_assurance">\69</string>
+    <string name="icon_audio_visual">\6a</string>
+    <string name="icon_ayurved">\6b</string>
+    <string name="icon_back">\6c</string>
+    <string name="icon_back_filled">\6d</string>
+    <string name="icon_bag">\6e</string>
+    <string name="icon_banquet">\6f</string>
+    <string name="icon_bar">\70</string>
+
+    <string name="icon_beauty_saloon">\72</string>
+    <string name="icon_boardroom">\73</string>
+    <string name="icon_boardroom_1">\74</string>
+    <string name="icon_booking">\75</string>
+    <string name="icon_bus">=</string>
+    <string name="icon_cabaret">\77</string>
+    <string name="icon_caterers">G</string>
+    <string name="icon_flower_pot">T</string>
+    <string name="icon_calander">&#xba;</string>
+    <string name="icon_beauty">q</string>
+    <string name="icon_wedding_card">&#xe01f;</string>
+    <string name="icon_cake">x</string>
+    <string name="icon_music">&#x3a;</string>
+    <string name="icon_camera">&#x42;</string>
+    <string name="icon_glass">&#x56;</string>
+    <string name="icon_calander_check">y</string>
+    <string name="icon_calander_month">\41</string>
+
+    <string name="icon_cancellation_policy">\43</string>
+    <string name="icon_capacity">J</string>
+    <string name="icon_capacity_filled">\45</string>
+    <string name="icon_carts">\46</string>
+
+    <string name="icon_massage_center">\2a</string>
+    <string name="icon_meal">\2b</string>
+    <string name="icon_meeting">\2c</string>
+    <string name="icon_mehandi">j</string>
+    <string name="icon_massage">\2e</string>
+    <string name="icon_massage_1">\2f</string>
+
+    <string name="icon_gift">\55</string>
+
+    <string name="icon_google_plus">\57</string>
+    <string name="icon_grid_view">\58</string>
+    <string name="icon_grid_view_1">\59</string>
+    <string name="icon_gym">\5a</string>
+    <string name="icon_handicape">\30</string>
+    <string name="icon_hands">\31</string>
+    <string name="icon_heading">\32</string>
+    <string name="icon_heart">\33</string>
+    <string name="icon_heart_filled">\34</string>
+    <string name="icon_heart_love">2</string>
+    <string name="icon_herringbone">\36</string>
+    <string name="icon_hollow">\37</string>
+    <string name="icon_home">\38</string>
+    <string name="icon_horse_shoe">\39</string>
+    <string name="icon_hotel">\21</string>
+    <string name="icon_info">\22</string>
+    <string name="icon_instagram">\23</string>
+    <string name="icon_invite_friend">\24</string>
+    <string name="icon_lead_management">\25</string>
+    <string name="icon_linkedin">\26</string>
+    <string name="icon_location">\27</string>
+    <string name="icon_location_2">\28</string>
+    <string name="icon_lock">\29</string>
+
+
+    <string name="icon_wider_customer">\e020</string>
+    <string name="icon_wifi">\e021</string>
+    <string name="icon_wordpress">\e022</string>
+    <string name="icon_yoga">\e023</string>
+
+    <string name="icon_train_metro">\e016</string>
+    <string name="icon_trust">\e017</string>
+    <string name="icon_twitter">\e018</string>
+    <string name="icon_u_shape">\e019</string>
+    <string name="icon_uninterrupted_power_supply">\e01a</string>
+    <string name="icon_user">\e01b</string>
+    <string name="icon_valet_parking">\e01c</string>
+    <string name="icon_vimeo">\e01d</string>
+    <string name="icon_washrooms">\e01e</string>
+
+
+
+
+
+
+</resources>

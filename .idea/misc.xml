@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/androidproj/mangalam/app2/app/src/main/res/layout-land/gmlay2.xml" value="0.13693693693693693" />
+        <entry key="..\:/androidproj/mangalam/app2/app/src/main/res/layout-sw600dp/gmlay12.xml" value="0.1" />
+        <entry key="..\:/androidproj/mangalam/app2/app/src/main/res/layout-sw600dp/gmlay2.xml" value="0.1" />
+        <entry key="..\:/androidproj/mangalam/app2/app/src/main/res/layout-sw600dp/gmlay7.xml" value="0.26180555555555557" />
+        <entry key="..\:/androidproj/mangalam/app2/app/src/main/res/layout-v16/gmlay16.xml" value="0.1" />
+        <entry key="..\:/androidproj/mangalam/app2/app/src/main/res/layout-v21/gmlay5.xml" value="0.432194046306505" />
+        <entry key="..\:/androidproj/mangalam/app2/app/src/main/res/layout/gmlay1.xml" value="0.1" />
+        <entry key="..\:/androidproj/mangalam/app2/app/src/main/res/layout/gmlay10.xml" value="0.1" />
+        <entry key="..\:/androidproj/mangalam/app2/app/src/main/res/layout/gmlay11.xml" value="0.1" />
+        <entry key="..\:/androidproj/mangalam/app2/app/src/main/res/layout/gmlay12.xml" value="0.1" />
+        <entry key="..\:/androidproj/mangalam/app2/app/src/main/res/layout/gmlay13.xml" value="0.1" />
+        <entry key="..\:/androidproj/mangalam/app2/app/src/main/res/layout/gmlay14.xml" value="0.1" />
+        <entry key="..\:/androidproj/mangalam/app2/app/src/main/res/layout/gmlay15.xml" value="0.1" />
+        <entry key="..\:/androidproj/mangalam/app2/app/src/main/res/layout/gmlay16.xml" value="0.1" />
+        <entry key="..\:/androidproj/mangalam/app2/app/src/main/res/layout/gmlay17.xml" value="0.1" />
+        <entry key="..\:/androidproj/mangalam/app2/app/src/main/res/layout/gmlay18.xml" value="0.1" />
+        <entry key="..\:/androidproj/mangalam/app2/app/src/main/res/layout/gmlay19.xml" value="0.1" />
+        <entry key="..\:/androidproj/mangalam/app2/app/src/main/res/layout/gmlay2.xml" value="0.1" />
+        <entry key="..\:/androidproj/mangalam/app2/app/src/main/res/layout/gmlay3.xml" value="0.1" />
+        <entry key="..\:/androidproj/mangalam/app2/app/src/main/res/layout/gmlay4.xml" value="0.1" />
+        <entry key="..\:/androidproj/mangalam/app2/app/src/main/res/layout/gmlay5.xml" value="0.10676532769556026" />
+        <entry key="..\:/androidproj/mangalam/app2/app/src/main/res/layout/gmlay6.xml" value="0.1" />
+        <entry key="..\:/androidproj/mangalam/app2/app/src/main/res/layout/gmlay7.xml" value="0.1" />
+        <entry key="..\:/androidproj/mangalam/app2/app/src/main/res/layout/gmlay8.xml" value="0.1" />
+        <entry key="..\:/androidproj/mangalam/app2/app/src/main/res/layout/gmlay9.xml" value="0.1" />
+        <entry key="..\:/androidproj/mangalam/app2/app/src/main/res/menu/main.xml" value="0.1" />
+        <entry key="..\:/androidproj/mangalam/app2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/androidproj/mangalam/app2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="NullableNotNullManager">
+    <option name="myDefaultNullable" value="android.support.annotation.Nullable" />
+    <option name="myDefaultNotNull" value="android.support.annotation.NonNull" />
+    <option name="myNullables">
+      <value>
+        <list size="12">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.Nullable" />
+          <item index="1" class="java.lang.String" itemvalue="javax.annotation.Nullable" />
+          <item index="2" class="java.lang.String" itemvalue="javax.annotation.CheckForNull" />
+          <item index="3" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.Nullable" />
+          <item index="4" class="java.lang.String" itemvalue="android.support.annotation.Nullable" />
+          <item index="5" class="java.lang.String" itemvalue="androidx.annotation.Nullable" />
+          <item index="6" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNullable" />
+          <item index="7" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.Nullable" />
+          <item index="8" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableDecl" />
+          <item index="9" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableType" />
+          <item index="10" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.Nullable" />
+          <item index="11" class="java.lang.String" itemvalue="com.android.annotations.Nullable" />
+        </list>
+      </value>
+    </option>
+    <option name="myNotNulls">
+      <value>
+        <list size="11">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.NotNull" />
+          <item index="1" class="java.lang.String" itemvalue="javax.annotation.Nonnull" />
+          <item index="2" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.NonNull" />
+          <item index="3" class="java.lang.String" itemvalue="android.support.annotation.NonNull" />
+          <item index="4" class="java.lang.String" itemvalue="androidx.annotation.NonNull" />
+          <item index="5" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNonNull" />
+          <item index="6" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.NonNull" />
+          <item index="7" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullDecl" />
+          <item index="8" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullType" />
+          <item index="9" class="java.lang.String" itemvalue="com.android.annotations.NonNull" />
+          <item index="10" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.NonNull" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Grindlays Mangalam</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Grindlays Mangalam</string>
+    <string name="nav_header_subtitle">
+</string>
+    <string name="nav_header_desc">From weddings to parties and every social function in-between, we have hosted many events over the years. Our experienced events team will help you craft the ideal function.</string>
+    <string name="action_settings">Settings</string>
+    <string name="services">Our Services</string>
+    <string name="home">Events Overview</string>
+    <string name="hometext">"Grindlays Mangalam" is the brand name of Grindlays wedding and Event planning. With all our facilities of a star Hotel and Excellent Service crew, we organize your event with glamour. \n
+
+From 2015 we have been organizing Grindlays Wedding Show for five times collecting all wedding services under one roof.\n
+
+Going further in our service we have made easier for our customers providing all wedding services onto your palm with "Grindlays wedding App"
+</string>
+    <string name="decor_florists"><![CDATA[Decor & Florists]]></string>
+    <string name="title_activity_service">serviceActivity</string>
+    <string name="photographers_videographers"><![CDATA[Photographers & \n Videographers]]></string>
+    <string name="DJnmusic"><![CDATA[DJ and Music Group]]></string>
+    <string name="os">Our Services</string>
+    <string name="abtus">About Us</string>
+    <string name="contactu">Contact Us</string>
+    <string name="channel_name">Mangalam</string>
+    <string name="channel_description">Grindlays Mangalam</string>
+    <string name="locus">Locate Us</string>
+    <string name="jewelry">Jewellery</string>
+    <string name="bridal_saloon">Bridal Saloon</string>
+    <string name="wedding_cards_souvenirs"><![CDATA[Wedding cards & \n Souvenirs]]></string>
+    <string name="vederl">Vender List</string>
+    <string name="default_notification_channel_id">grindlaysmangalam</string>
+    <string name="default_notification_channel_name">mangala</string>
+    <string name="fire_lighting"><![CDATA[Fire & lighting]]></string>
+</resources>

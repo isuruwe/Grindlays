@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="grind.wsc.ht.mg">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/gmico"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyC5O9LIpmnzIylWBPGHcOiosFCVBOuYuZo" />
+        <activity
+            android:name=".showslasact"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <service android:name=".getservloc" />
+        <service android:name=".fbmserv"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <activity
+
+            android:name=".mgmserzxc"
+            android:label="@string/os"
+            />
+        <activity
+
+            android:name=".MangalamAct"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar"
+            >
+
+    </activity>
+        <activity
+
+            android:name=".AboutUs"
+            android:label="@string/abtus" />
+        <activity
+
+            android:name=".conform"
+            android:label="@string/contactu" />
+        <activity
+
+            android:name=".findUs"
+            android:label="@string/locus" />
+        <activity
+
+            android:name=".gmfglist"
+            android:label="@string/app_name" />
+        <activity
+
+            android:name=".gmcadert"
+            android:label="@string/app_name" />
+    </application>
+
+</manifest>

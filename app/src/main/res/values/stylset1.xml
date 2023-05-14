@@ -1,0 +1,17 @@
+
+<resources>
+    <style name="Theme.Illini" parent="Theme.AppCompat.NoActionBar">
+        ...
+        <item name="android:textColorSecondaryInverse">@color/cobalt</item>
+        <item name="android:textColorTertiaryInverse">@color/crimson_glory</item>
+        <item name="android:textColorLinkInverse">@color/transparent_black_hex_1</item>
+        <item name="android:textColorHintInverse">@color/raspberry_pink</item>
+        <item name="android:textColorPrimary">@color/emerald</item>
+
+        <item name="android:textColorLink">@color/air_force_blue</item>
+        <item name="android:textColorHint">@color/capri</item>
+        <item name="android:textColorPrimaryInverse">@color/onyx</item>
+        <item name="android:textColorSecondary">@color/almond</item>
+        <item name="android:textColorTertiary">@color/ash_grey</item>
+    </style>
+    </resources>

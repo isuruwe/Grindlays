@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/gmivi10"
+            android:title="Services" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/gmvbnm"
+            android:title="About Us" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Contact Us" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/gmicloc"
+            android:title="Locate Us" />
+    </group>
+
+    <item android:title="Get in Touch">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/gmic_phone"
+                android:title="Call Us +94713409409"/>
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/gmmel1"
+                android:title="grindlaysregency@gmail.com" />
+            <item
+                android:id="@+id/nav_web"
+                android:icon="@drawable/gmblgco"
+                android:title="www.grindlaysmangalam.com" />
+        </menu>
+    </item>
+
+</menu>
